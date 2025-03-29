@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Diseño de controladores MATLAB; Spyder; Multisim;
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kenya F.
+    family-names: Rodriguez
+    email: kenya.rodriguez201@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+  - given-names: 'Jeanette '
+    family-names: Cubillas
+    email: l20212948@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+repository-code: 'https://github.com/kenya-rodriguez201/MSF-Pr-ctica-1-'
+keywords:
+  - Controlador PID
+  - Sistema de control
+  - Funcion de transferencia
+  - Circuito RLC
+license: BSD-2-Clause
+date-released: '2025-03-07'

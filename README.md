@@ -2,7 +2,7 @@
 ## Autor
 Kenya Fernanda Rodriguez Castro 
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l20212948@tectijuana.edu.mx
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: kenya.rodriguez201@tectijuana.edu.mx
 
 ## Objetivos general
 Disenar un controlador que permita formular un protocolo de tratamiento para que un paciente con enfisema (caso) presente la misma presion alveolar que un individuo sano (control).
